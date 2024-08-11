@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Scalar Data
 - 👨‍💻 I'm a React-Native/Typescript developer
 - 🌱 I’m currently studying iOS/Swift
-- 🗒️ My Portfolio is [Notion](https://choi-hyunjin.notion.site/4bcdb96baf1745f687cf2faa1280d4f1)
+- 🗒️ My Portfolio is hosted on [Notion](https://choi-hyunjin.notion.site/4bcdb96baf1745f687cf2faa1280d4f1)
 
 <!--
 **ChoiHyunjin/ChoiHyunjin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
