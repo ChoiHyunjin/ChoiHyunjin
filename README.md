@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Radish
+- 🔭 I’m currently working on Scalar Data
 - 👨‍💻 I'm a React-Native/Typescript developer
 - 🌱 I’m currently studying iOS/Swift
 - 🗒️ My Portfolio is [Notion](https://choi-hyunjin.notion.site/4bcdb96baf1745f687cf2faa1280d4f1)
